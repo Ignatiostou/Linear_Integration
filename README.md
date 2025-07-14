@@ -77,7 +77,7 @@ Simply run the main Python script:
 bash
 Αντιγραφή
 Επεξεργασία
-python your_script_name.py
+python final_football_schedule.py
 The program will:
 
 Attempt to find a feasible schedule.
